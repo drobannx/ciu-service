@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/drobannx/ciu-service/issues"
   },
-  "homepage": "https://github.com/drobannx/ciu-service"
+  "homepage": "https://github.com/drobannx/ciu-service",
+  "dependencies": {
+    "hapi": "^8.1.0"
+  }
 }
