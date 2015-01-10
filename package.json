@@ -1,0 +1,23 @@
+{
+  "name": "ciu-service",
+  "version": "1.0.0",
+  "description": "Node service layer for Chalk It Up",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drobannx/ciu-service.git"
+  },
+  "keywords": [
+    "node",
+    "hapi"
+  ],
+  "author": "drobannx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drobannx/ciu-service/issues"
+  },
+  "homepage": "https://github.com/drobannx/ciu-service"
+}
